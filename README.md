@@ -18,7 +18,8 @@
 
 ###
 
-<p align="left">Hi there, I'm Abderrazake Errifaouy 👋<br><br>I'm a passionate developer from Morocco.<br><br>- 🔭 I’m currently working as an Android Developer, focusing on building mobile applications using Java and Kotlin.<br>- 📚 I'm currently learning more about backend development with Spring Boot and Firebase integration.<br>- ⚡ In my free time, I enjoy working on open-source projects, learning new programming languages, and experimenting with new tech tools.</p>
+<p align="left">Hi there, I'm Abderrazake Errifaouy 👋<br><br>I'm a passionate developer from Morocco.<br><br>- 🔭 I’m currently working as an Android Developer, focusing on building mobile applications using Java and Kotlin.<br>- 📚 I'm currently learning more about backend development with Spring Boot and Firebase integration
+</p>
 
 ###
 
