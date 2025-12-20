@@ -25,7 +25,7 @@ val developer = Developer(
     name = "Abderrazake Errifaouy",
     location = "Morocco 🇲🇦",
     currentFocus = "Android Development",
-    languages = listOf("Java", "Kotlin", "Python", "JavaScript"),
+    languages = listOf("php", "Kotlin", "Python", "JavaScript" , "dart" , "Flutter"),
     passions = listOf("Mobile Apps", "Backend Systems", "Clean Code")
 )
 ```
