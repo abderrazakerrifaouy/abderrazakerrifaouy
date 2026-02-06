@@ -87,7 +87,8 @@ val developer = Developer(
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abderrazakerrifaouy&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/abderrazakerrifaouy/YOUR_REPO_NAME)
+[![ReadMe Card]([https://github-readme-stats.vercel.app/api/pin/?username=abderrazakerrifaouy&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=abderrazakerrifaouy&theme=radical
+))](https://github.com/abderrazakerrifaouy/YOUR_REPO_NAME)
 
 </div>
 
