@@ -1,28 +1,14 @@
-&lt;div align=&quot;center&quot;&gt;
 
-&lt;img width=&quot;100%&quot; src=&quot;https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A192F,50:4F46E5,100:00D4FF&amp;height=200&amp;section=header&amp;text=Abderrazak%20Errifaouy&amp;fontSize=42&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=AI%20%26%20Full-Stack%20Developer%20%E2%80%A2%20YouCode%20(UM6P)%20%E2%80%A2%20Morocco&amp;descAlignY=60&amp;descSize=17&amp;animation=fadeIn&quot; alt=&quot;Abderrazak Errifaouy Banner&quot; /&gt;
-
-&lt;a href=&quot;https://github.com/abderrazakerrifaouy&quot;&gt;
-  &lt;img src=&quot;https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Welcome+to+My+Digital+Workshop;2nd+Year+AI+%26+Data+Science+%40+YouCode+(UM6P);Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+MLOps;Full-Stack+Web+%26+Mobile+Developer;Dream+Big%2C+Code+Bigger&quot; alt=&quot;Typing SVG&quot; /&gt;
-&lt;/a&gt;
-
-&lt;br /&gt;
 
 [](https://github.com/abderrazakerrifaouy)
-[](https://www.linkedin.com/in/abderrazak-errifaouy/)
-[](mailto:abdrzakrifawi@gmail.com)
 
-&lt;/div&gt;
+[](https://github.com/abderrazakerrifaouy) [](https://www.linkedin.com/in/abderrazak-errifaouy/) [](mailto:abdrzakrifawi@gmail.com)
 
-&lt;div align=&quot;center&quot;&gt;
-
-```ascii
+```text
 ╔══════════════════════════════════════════════════════════════════╗
 ║  Abderrazak Errifaouy | AI & Full-Stack Developer | Morocco 🇲🇦  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
-
-&lt;/div&gt;
 
 ---
 
@@ -52,48 +38,17 @@ developer = {
 
 ## 💻 Tech Arsenal
 
-&lt;div align=&quot;center&quot;&gt;
-
 ### 🤖 AI, Data Science & MLOps
-
-
-
-
-
-
-
-
-
-
-
+          
 
 ### 🌐 Web Full-Stack
-
-
-
-
-
-
-
-
-
+        
 
 ### 📱 Mobile Development
-
-
-
-
-
+    
 
 ### 🗄️ Databases & DevOps
-
-
-
-
-
-
-
-&lt;/div&gt;
+     
 
 ---
 
@@ -108,52 +63,28 @@ developer = {
 | **[DeliveryETA](https://github.com/abderrazakerrifaouy/DeliveryETA-)** | `Predictive ML` | Predictive delivery time regression factoring weather, traffic, and courier features (**Python, Pandas, Scikit-learn**) with web app. |
 | **[WorkSphere](https://github.com/abderrazakerrifaouy/WorkSphere---Virtual-Workspace)** | `Front-End Web` | Real-time interactive floor-plan staff management app with role rules (**TypeScript, JavaScript, HTML5, CSS3**, GitHub Pages). |
 
-&lt;div align=&quot;center&quot;&gt;
+[](https://github.com/abderrazakerrifaouy/DiabetesRisk-AI) [](https://github.com/abderrazakerrifaouy/M-t-oRisk)
 
-[](https://github.com/abderrazakerrifaouy/DiabetesRisk-AI)
-[](https://github.com/abderrazakerrifaouy/M-t-oRisk)
-
-[](https://github.com/abderrazakerrifaouy/BrainScan-D-tection-du-Cancer-C-r-bral-par-CNN)
-[](https://github.com/abderrazakerrifaouy/MindGuard)
-
-&lt;/div&gt;
+[](https://github.com/abderrazakerrifaouy/BrainScan-D-tection-du-Cancer-C-r-bral-par-CNN) [](https://github.com/abderrazakerrifaouy/MindGuard)
 
 ---
 
 ## 📊 GitHub Analytics
 
-&lt;div align=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://github-readme-stats.vercel.app/api?username=abderrazakerrifaouy&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&quot; height=&quot;170&quot; alt=&quot;GitHub Stats&quot; /&gt;
-  &lt;img src=&quot;https://github-readme-stats.vercel.app/api/top-langs/?username=abderrazakerrifaouy&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8&quot; height=&quot;170&quot; alt=&quot;Top Languages&quot; /&gt;
-&lt;/div&gt;
+ 
 
-&lt;div align=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://streak-stats.demolab.com?user=abderrazakerrifaouy&amp;theme=tokyonight&amp;hide_border=true&quot; alt=&quot;GitHub Streak&quot; /&gt;
-&lt;/div&gt;
 
-&lt;div align=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abderrazakerrifaouy&amp;theme=tokyonight&quot; alt=&quot;Profile Details&quot; /&gt;
-&lt;/div&gt;
+
+
 
 ---
 
 ## 🤝 Let's Connect
 
-&lt;div align=&quot;center&quot;&gt;
-
-[](https://www.linkedin.com/in/abderrazak-errifaouy/)
-[](mailto:abdrzakrifawi@gmail.com)
-[](https://github.com/abderrazakerrifaouy)
-
-&lt;br /&gt;
+[](https://www.linkedin.com/in/abderrazak-errifaouy/) [](mailto:abdrzakrifawi@gmail.com) [](https://github.com/abderrazakerrifaouy)
 
 ### 💭 Dev Quote of the Day
 
 
-&lt;br /&gt;
-
 **⭐️ From [abderrazakerrifaouy](https://github.com/abderrazakerrifaouy) with 💙**
 
-&lt;/div&gt;
-
-&lt;img width=&quot;100%&quot; src=&quot;https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A192F,50:4F46E5,100:00D4FF&amp;height=100&amp;section=footer&quot; alt=&quot;Footer Wave&quot; /&gt;
